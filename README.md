@@ -29,3 +29,18 @@
 
 #### run
 실행시킬 명령어예요.
+
+#### uses
+어떻게 제가 다 만듭니까~ 
+다른 사람이 만든 액션들을 사용할게요. (마치 라이브러리 사용하듯이)
+
+---
+## github variable context
+환경 변수를 활용할 수도 있어요.
+[많은 variable context가 있습니다](https://docs.github.com/en/actions/learn-github-actions/contexts)
+
+
+--
+## secret info
+settings -> secrets 들어가서 특정 정보를 은닉화할 수 있어요.
+
